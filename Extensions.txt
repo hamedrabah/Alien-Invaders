@@ -1,0 +1,16 @@
+Extensions.txt
+
+List of extensions: 
+
+1. Background Music: Cool techno sounding music (ninja.wav), used as background music for the game. The file was obtained under a creative common license and the original file source is found here: http://freemusicarchive.org/music/Komiku/ULTRA_PERSON_VOL4/Komiku_-_ULTRA_PERSON_VOL4_-_03_Boss_6_-_Swoop_attack
+
+NOTE: The background music works much better on Windows computers than on Mac.
+
+2. Background Color: Consistent gray background for the game 
+
+3. Score Tracker: Adds 100 points each time an alien is destroyed 
+
+3. Lives Tracker: Keeps track of player lives
+
+4. Sound Effects: Sounds implemented for when the player shoots and when an alien is killed
+
